@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<?xml-stylesheet href="students.xsl" type="text/xsl"?>
+<students>
+	<student>
+		<first_name>Mark</first_name>
+		<last_name>Up</last_name>
+		<email>mark.up@maltt.edu</email>
+		<grades>
+			<grade exercice="1">5.75</grade>
+			<grade exercice="2">4.5</grade>
+			<grade exercice="3">5.25</grade>
+		</grades>
+	</student>
+	<student>
+		<first_name>Text</first_name>
+		<last_name>Lang</last_name>
+		<email>text.lang@maltt.edu</email>
+		<grades>
+			<grade exercice="1">3.5</grade>
+			<grade exercice="2">4.75</grade>
+		</grades>
+	</student>
+	<student>
+		<first_name>Hyper</first_name>
+		<last_name>Link</last_name>
+		<email>hyper.link@maltt.edu</email>
+	</student>
+	<student>
+		<first_name>Cascading</first_name>
+		<last_name>Stylesheet</last_name>
+		<email>cascading.stylesheet@maltt.edu</email>
+		<grades>
+			<grade exercice="1">3.75</grade>
+			<grade exercice="2">4.5</grade>
+			<grade exercice="3">5.5</grade>
+			<grade exercice="4">3.25</grade>
+		</grades>
+	</student>
+	<student>
+		<first_name>Java</first_name>
+		<last_name>Script</last_name>
+		<grades>
+			<grade exercice="1">6</grade>
+			<grade exercice="2">6</grade>
+			<grade exercice="3">5.75</grade>
+			<grade exercice="4">5.75</grade>
+			<grade exercice="5">5.5</grade>
+			<grade exercice="6">6</grade>
+		</grades>
+	</student>
+</students>
+

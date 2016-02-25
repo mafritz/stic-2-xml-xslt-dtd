@@ -1,0 +1,47 @@
+body {
+    background-color: cadetblue;
+    color: #FFF;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    margin: 50px;
+}
+
+section {
+    background-color: beige;
+    color: darkslategrey;
+    padding: 25px;
+    border: 1px solid #666;
+    margin-bottom: 25px;
+}
+
+section h2 {
+    margin-top: 0px;
+}
+
+section h3 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+section ul {
+    margin: 0px;
+}
+
+section p {
+    margin: 0px 0px 5px 0px;
+}
+
+table {
+    background-color: aliceblue;
+    color: #000;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+table th, td {
+    padding: 10px 15px;
+    border: 1px solid #666;
+    text-align: left;
+}
+
